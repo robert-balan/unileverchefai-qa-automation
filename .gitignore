@@ -7,3 +7,7 @@ playwright-report/
 .vscode/
 # github configs
 .github/    
+# loggs 
+logs/
+# screenshots
+snapshots/
